@@ -1,4 +1,4 @@
-## Lorenzo Calosi
+### WhoAmI
 
 I'm a Junior Unity Developer based in Florence, Tuscany, Italy.
 
@@ -27,10 +27,10 @@ My main field is Unity scripting in C#, but i have partial knowledge of Back-End
 
 ### Where can you find me
 
-[![Twitter](http://i.imgur.com/wWzX9uB.png)@lorenzo_calosi](https://twitter.com/lorenzo_calosi)
+[![Twitter](http://i.imgur.com/wWzX9uB.png) @lorenzo_calosi](https://twitter.com/lorenzo_calosi)
 
-[![Twitter](http://i.imgur.com/fep1WsG.png)Facebook](https://www.facebook.com/ParadoxJester)
+[![Twitter](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/ParadoxJester)
 
-[![Github](http://i.imgur.com/9I6NRUm.png)GitHub](http://www.github.com/carlsednaoui)
+[![Github](http://i.imgur.com/9I6NRUm.png) GitHub](http://www.github.com/carlsednaoui)
 
 Or you can just e-mail me at [lorenzo.calosi1@gmail.com](mailto:lorenzo.calosi1@gmail.com)
