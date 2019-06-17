@@ -4,7 +4,9 @@
 
 I'm a Junior Unity Developer based in Florence, Tuscany, Italy.
 
-My interests are old games games, movies that are either very bad or very good and internet stuff.
+I've been studying Game Development for 3 years, i love participating in Game Jams when i can, and i've got a passion for RPGs, Rythm games and Fighting games.
+
+My interests are old videogames, boardgames, movies that are either very bad or very good and weird/obscure internet stuff.
 
 ### Knowledge
 
