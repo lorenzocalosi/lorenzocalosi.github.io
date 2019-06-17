@@ -31,7 +31,7 @@ My main field is Unity scripting in C#, but i have partial knowledge of Back-End
 
 ### Where can you find me
 
-[Lorenzo Calosi](https://www.linkedin.com/in/lorenzo-calosi/)
+[Lorenzo Calosi on LinkedIn](https://www.linkedin.com/in/lorenzo-calosi/)
 
 [![Twitter](http://i.imgur.com/wWzX9uB.png) @lorenzo_calosi](https://twitter.com/lorenzo_calosi)
 
