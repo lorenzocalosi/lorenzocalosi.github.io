@@ -36,6 +36,6 @@ My main field is Unity scripting in C#, but i have partial knowledge of Back-End
 
 [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/ParadoxJester)
 
-[![Github](http://i.imgur.com/9I6NRUm.png) GitHub](http://www.github.com/carlsednaoui)
+[![Github](http://i.imgur.com/9I6NRUm.png) GitHub](https://github.com/lorenzocalosi/)
 
 Or you can just e-mail me at [lorenzo.calosi1@gmail.com](mailto:lorenzo.calosi1@gmail.com)
